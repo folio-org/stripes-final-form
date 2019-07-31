@@ -1,0 +1,45 @@
+{
+  "name": "@folio/stripes-final-form",
+  "version": "1.0.0",
+  "description": "Form state management in Stripes based on Final Form.",
+  "license": "Apache-2.0",
+  "repository": "folio-org/stripes-final-form",
+  "sideEffects": [
+    "*.css"
+  ],
+  "publishConfig": {
+    "registry": "https://repository.folio.org/repository/npm-folio/"
+  },
+  "scripts": {
+    "docgen": "react-docgen ./lib/ --pretty -e index.js -o ./docs/reactdoc.json ",
+    "lint": "eslint .",
+    "test": "echo 'Placeholder. No local unit tests currently implemented.'"
+  },
+  "engines": {
+    "node": ">=6.0.0"
+  },
+  "devDependencies": {
+    "@folio/eslint-config-stripes": "^3.2.0",
+    "babel-eslint": "^9.0.0",
+    "eslint": "^5.5.0",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "webpack": "^4.10.2"
+  },
+  "dependencies": {
+    "@folio/stripes-components": "~5.5.0",
+    "@folio/stripes-core": "~3.7.0",
+    "final-form": "^4.18.2",
+    "final-form-arrays": "^3.0.1",
+    "final-form-focus": "^1.1.2",
+    "flat": "^4.0.0",
+    "prop-types": "^15.5.10",
+    "react-final-form": "^6.3.0",
+    "react-final-form-arrays": "^3.1.0",
+    "react-intl": "^2.4.0",
+    "react-router": "^4.1.1"
+  },
+  "peerDependencies": {
+    "react": "*"
+  }
+}
