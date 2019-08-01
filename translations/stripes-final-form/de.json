@@ -1,7 +1,7 @@
 {
-    "unsavedChanges": "Es gibt nicht gespeicherte Änderungen",
-    "areYouSure": "Sind Sie sicher?",
-    "saveChanges": "Save Changes",
-    "closeWithoutSaving": "Schließen ohne Speichern",
-    "keepEditing": "Bearbeiten fortsetzen"
+    "unsavedChanges": "There are unsaved changes",
+    "areYouSure": "Are you sure?",
+    "saveChanges": "Save changes",
+    "closeWithoutSaving": "Close without saving",
+    "keepEditing": "Keep editing"
 }
