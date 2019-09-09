@@ -1,7 +1,7 @@
 {
-    "unsavedChanges": "There are unsaved changes",
-    "areYouSure": "Are you sure?",
-    "saveChanges": "Save changes",
-    "closeWithoutSaving": "Close without saving",
-    "keepEditing": "Keep editing"
+    "unsavedChanges": "有未保存的更改",
+    "areYouSure": "是否确定？",
+    "saveChanges": "保存更改",
+    "closeWithoutSaving": "关闭而不保存",
+    "keepEditing": "继续编辑"
 }
