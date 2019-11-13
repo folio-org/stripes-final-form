@@ -1,7 +1,7 @@
 {
     "unsavedChanges": "Есть несохраненные изменения",
     "areYouSure": "Вы уверены?",
-    "saveChanges": "Save changes",
-    "closeWithoutSaving": "Close without saving",
-    "keepEditing": "Keep editing"
+    "saveChanges": "Сохранить изменения",
+    "closeWithoutSaving": "Закрыть без сохранения",
+    "keepEditing": "Продолжить редактирование"
 }
