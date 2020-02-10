@@ -19,9 +19,9 @@
     "node": ">=6.0.0"
   },
   "devDependencies": {
-    "@folio/eslint-config-stripes": "^3.2.0",
+    "@folio/eslint-config-stripes": "^5.1.0",
     "babel-eslint": "^9.0.0",
-    "eslint": "^5.5.0",
+    "eslint": "^6.2.1",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "webpack": "^4.10.2"
