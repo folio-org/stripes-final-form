@@ -1,6 +1,11 @@
 # Change history for stripes-final-form
 
-## 2.0.0 (IN PROGRESS)
+## [2.0.0](https://github.com/folio-org/stripes-final-form/tree/v2.0.0) (2020-03-04)
+[Full Changelog](https://github.com/folio-org/stripes-core/compare/v1.4.0...v2.0.0)
+
+* Increment `stripes-core` to v4.0.0.
+* Increment `stripes-components` to v6.0.0.
+* Security update for eslint to `v6.2.1`. Refs STRIPES-648
 
 ## [1.4.0](https://github.com/folio-org/stripes-final-form/tree/v1.4.0) (2019-12-04)
 [Full Changelog](https://github.com/folio-org/stripes-core/compare/v1.3.0...v1.4.0)
