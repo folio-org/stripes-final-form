@@ -27,8 +27,8 @@
     "webpack": "^4.10.2"
   },
   "dependencies": {
-    "@folio/stripes-components": "~6.0.0",
-    "@folio/stripes-core": "~4.0.0",
+    "@folio/stripes-components": "~6.1.0",
+    "@folio/stripes-core": "~4.1.0",
     "final-form": "^4.18.2",
     "final-form-arrays": "^3.0.1",
     "final-form-focus": "^1.1.2",
