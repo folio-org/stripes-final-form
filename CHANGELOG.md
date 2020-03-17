@@ -1,9 +1,11 @@
 # Change history for stripes-final-form
 
-## 2.1.0 (IN PROGRESS)
+## [2.1.0](https://github.com/folio-org/stripes-final-form/tree/v2.1.0) (2020-03-16)
+[Full Changelog](https://github.com/folio-org/stripes-final-form/compare/v2.0.0...v2.1.0)
 
 * Turn off navigation check during submission. Fixes STRIPESFF-3.
 * Correct `Full Changelog` links that pointed to `stripes-core`.
+* Provide correct prop-type for `StripesFinalFormWrapper.Form`.
 
 ## [2.0.0](https://github.com/folio-org/stripes-final-form/tree/v2.0.0) (2020-03-04)
 [Full Changelog](https://github.com/folio-org/stripes-final-form/compare/v1.4.0...v2.0.0)
