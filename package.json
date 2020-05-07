@@ -39,7 +39,7 @@
   },
   "peerDependencies": {
     "react": "*",
-    "react-intl": "^2.4.0",
+    "react-intl": "^4.5.3",
     "react-router": "^4.1.1"
   }
 }
