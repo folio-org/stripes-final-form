@@ -1,7 +1,7 @@
 {
     "unsavedChanges": "There are unsaved changes",
     "areYouSure": "Are you sure?",
-    "saveChanges": "Save changes",
-    "closeWithoutSaving": "Close without saving",
+    "saveChanges": "変更を保存",
+    "closeWithoutSaving": "保存せずに閉じる",
     "keepEditing": "編集を続ける"
 }
