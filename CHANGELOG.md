@@ -1,6 +1,7 @@
 # Change history for stripes-final-form
 
-## 4.0.1 IN PROGRESS
+## [4.0.1](https://github.com/folio-org/stripes-final-form/tree/v4.0.1) (2020-10-29)
+[Full Changelog](https://github.com/folio-org/stripes-final-form/compare/v4.0.0...v4.0.1)
 
 * Increment `react-intl` to `^5.7`. Refs STRIPES-694.
 
