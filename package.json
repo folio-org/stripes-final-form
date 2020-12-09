@@ -1,6 +1,6 @@
 {
   "name": "@folio/stripes-final-form",
-  "version": "4.1.0",
+  "version": "5.0.0",
   "description": "Form state management in Stripes based on Final Form.",
   "license": "Apache-2.0",
   "repository": "folio-org/stripes-final-form",
@@ -20,8 +20,8 @@
   },
   "devDependencies": {
     "@folio/eslint-config-stripes": "^5.1.0",
-    "@folio/stripes-components": "^8.0.0",
-    "@folio/stripes-core": "^6.0.0",
+    "@folio/stripes-components": "^9.0.0",
+    "@folio/stripes-core": "^7.0.0",
     "babel-eslint": "^9.0.0",
     "eslint": "^6.2.1",
     "react": "^16.8.6",
