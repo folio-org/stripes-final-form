@@ -5,7 +5,6 @@
 * Increment `react-intl` to `^5.7`. Refs STRIPES-694.
 * Increment `stripes-core` to v7.0.0.
 * Increment `stripes-components` to v9.0.0.
-* Increment `react` to v17. Refs STRIPESFF-10.
 
 ## [4.0.0](https://github.com/folio-org/stripes-final-form/tree/v4.0.0) (2020-10-06)
 [Full Changelog](https://github.com/folio-org/stripes-final-form/compare/v3.0.0...v4.0.0)
