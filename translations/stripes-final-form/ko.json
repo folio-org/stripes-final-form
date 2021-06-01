@@ -1,7 +1,7 @@
 {
-    "unsavedChanges": "There are unsaved changes",
-    "areYouSure": "Are you sure?",
-    "saveChanges": "Save changes",
-    "closeWithoutSaving": "Close without saving",
-    "keepEditing": "Keep editing"
+    "unsavedChanges": "저장되지 않은 변경 사항이 있습니다.",
+    "areYouSure": "확실합니까?",
+    "saveChanges": "변경 내용 저장",
+    "closeWithoutSaving": "저장하지 않고 닫기",
+    "keepEditing": "계속 편집"
 }
