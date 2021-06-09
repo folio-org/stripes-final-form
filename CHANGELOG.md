@@ -1,5 +1,10 @@
 # Change history for stripes-final-form
 
+## [5.1.0](https://github.com/folio-org/stripes-final-form/tree/v5.1.0) (2021-06-09)
+[Full Changelog](https://github.com/folio-org/stripes-final-form/compare/v5.0.0...v5.1.0)
+
+* translations
+
 ## [5.0.0](https://github.com/folio-org/stripes-final-form/tree/v5.0.0) (2021-02-25)
 [Full Changelog](https://github.com/folio-org/stripes-final-form/compare/v4.0.0...v5.0.0)
 
