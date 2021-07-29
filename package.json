@@ -20,7 +20,7 @@
   },
   "devDependencies": {
     "@folio/eslint-config-stripes": "^5.1.0",
-    "@folio/stripes-components": "^folio-org/stripes-components#stripes-v7",
+    "@folio/stripes-components": "folio-org/stripes-components#stripes-v7",
     "@folio/stripes-core": "folio-org/stripes-core#stripes-v7",
     "babel-eslint": "^9.0.0",
     "eslint": "^6.2.1",
