@@ -1,5 +1,9 @@
 # Change history for stripes-final-form
 
+## 6.0.0 (IN PROGRESS)
+
+* React 17. Refs STRIPESFF-10.
+
 ## [5.1.0](https://github.com/folio-org/stripes-final-form/tree/v5.1.0) (2021-06-09)
 [Full Changelog](https://github.com/folio-org/stripes-final-form/compare/v5.0.0...v5.1.0)
 
