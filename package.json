@@ -16,7 +16,7 @@
     "test": "echo 'Placeholder. No local unit tests currently implemented.'"
   },
   "engines": {
-    "node": ">=6.0.0"
+    "node": ">=14.0.0"
   },
   "devDependencies": {
     "@folio/eslint-config-stripes": "^5.1.0",
