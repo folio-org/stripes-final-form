@@ -2,7 +2,8 @@
 
 ## 6.1.0 IN PROGRESS
 
-* Upgrade NodeJS to active LTS, v16. Refs STFRIPESFF-16.
+* Upgrade NodeJS to active LTS, v16. Refs STRIPESFF-16.
+* Migrate to `@babel/eslint-parser`. Refs STRIPESFF-15.
 
 ## [6.0.0](https://github.com/folio-org/stripes-final-form/tree/v6.0.0) (2021-09-27)
 [Full Changelog](https://github.com/folio-org/stripes-final-form/compare/v5.1.0...v6.0.0)
