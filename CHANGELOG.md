@@ -1,6 +1,7 @@
 # Change history for stripes-final-form
 
-## 6.1.0 IN PROGRESS
+## [6.1.0](https://github.com/folio-org/stripes-final-form/tree/v6.1.0) (2022-06-14)
+[Full Changelog](https://github.com/folio-org/stripes-final-form/compare/v6.0.0...v6.1.0)
 
 * Upgrade NodeJS to active LTS, v16. Refs STRIPESFF-16.
 * Migrate to `@babel/eslint-parser`. Refs STRIPESFF-15.
