@@ -1,5 +1,9 @@
 # Change history for stripes-final-form
 
+## (IN PROGRESS)
+
+* The "are you sure" modal window is not offered after re-editing. Refs STRIPESFF-19
+
 ## [6.1.0](https://github.com/folio-org/stripes-final-form/tree/v6.1.0) (2022-06-14)
 [Full Changelog](https://github.com/folio-org/stripes-final-form/compare/v6.0.0...v6.1.0)
 
