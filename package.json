@@ -10,10 +10,13 @@
   "publishConfig": {
     "registry": "https://repository.folio.org/repository/npm-folio/"
   },
+  "main": "dist/index.js",
   "scripts": {
+    "prepublish": "yarn transpile",
     "docgen": "react-docgen ./lib/ --pretty -e index.js -o ./docs/reactdoc.json ",
     "lint": "eslint .",
-    "test": "echo 'Placeholder. No local unit tests currently implemented.'"
+    "test": "echo 'Placeholder. No local unit tests currently implemented.'",
+    "transpile": "stripes transpile"
   },
   "engines": {
     "node": ">=14.0.0"
