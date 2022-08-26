@@ -21,6 +21,10 @@
   "engines": {
     "node": ">=14.0.0"
   },
+  "files": [
+    "dist",
+    "translations"
+  ],
   "devDependencies": {
     "@babel/core": "^7.18.2",
     "@babel/eslint-parser": "^7.18.2",
