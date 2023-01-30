@@ -1,6 +1,7 @@
 # Change history for stripes-final-form
 
-## 7.0.0 IN PROGRESS
+## [7.0.0](https://github.com/folio-org/stripes-final-form/tree/v7.0.0) (2023-01-30)
+[Full Changelog](https://github.com/folio-org/stripes-final-form/compare/v6.1.1...v7.0.0)
 
 * Bump `flat` to avoid security concerns. Refs STRIPESFF-21.
 
