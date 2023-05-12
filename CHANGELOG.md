@@ -3,6 +3,7 @@
 7.1.0 IN PROGRESS
 
 * Avoid private paths in stripes-core imports. Refs STRIPESFF-27.
+* Compile translations. Refs STRIPESFF-29.
 
 ## [7.0.0](https://github.com/folio-org/stripes-final-form/tree/v7.0.0) (2023-01-30)
 [Full Changelog](https://github.com/folio-org/stripes-final-form/compare/v6.1.1...v7.0.0)
