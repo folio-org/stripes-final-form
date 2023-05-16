@@ -19,7 +19,7 @@ jobs:
     env:
       YARN_TEST_OPTIONS: ''
       SQ_ROOT_DIR: './lib'
-      COMPILE_TRANSLATION_FILES: 'false'
+      COMPILE_TRANSLATION_FILES: 'true'
       PUBLISH_MOD_DESCRIPTOR: 'false'
       FOLIO_NPM_REGISTRY: 'https://repository.folio.org/repository/npm-folioci/'
       FOLIO_NPM_REGISTRY_AUTH: '//repository.folio.org/repository/npm-folioci/'
