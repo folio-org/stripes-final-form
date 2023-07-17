@@ -1,6 +1,6 @@
 # Change history for stripes-final-form
 
-7.1.0 IN PROGRESS
+## 8.0.0 IN PROGRESS
 
 * Avoid private paths in stripes-core imports. Refs STRIPESFF-27.
 * Compile translations. Refs STRIPESFF-29.
