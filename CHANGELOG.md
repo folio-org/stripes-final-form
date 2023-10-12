@@ -1,6 +1,9 @@
 # Change history for stripes-final-form
 
-## 8.0.0 IN PROGRESS
+## 8.1.0 IN PROGRESS
+
+## [8.0.0](https://github.com/folio-org/stripes-final-form/tree/v8.0.0) (2023-10-11)
+[Full Changelog](https://github.com/folio-org/stripes-final-form/compare/v7.0.0...v8.0.0)
 
 * Avoid private paths in stripes-core imports. Refs STRIPESFF-27.
 * Compile translations. Refs STRIPESFF-29.
