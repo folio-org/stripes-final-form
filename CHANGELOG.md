@@ -1,9 +1,7 @@
 # Change history for stripes-final-form
 
-## [8.0.1](https://github.com/folio-org/stripes-final-form/tree/v8.0.1) (2024-03-13)
-[Full Changelog](https://github.com/folio-org/stripes-final-form/compare/v8.0.0...v8.0.1)
-
-* Update translations
+## [8.0.2](https://github.com/folio-org/stripes-final-form/tree/v8.0.2) (2024-08-21)
+[Full Changelog](https://github.com/folio-org/stripes-final-form/compare/v8.0.1...v8.0.2)
 
 * Ignore the dirty-form prompt when navigating to a logout location. STRIPESFF-35.
 
