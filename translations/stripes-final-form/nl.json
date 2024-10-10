@@ -1,7 +1,7 @@
 {
-    "unsavedChanges": "There are unsaved changes",
-    "areYouSure": "Are you sure?",
-    "saveChanges": "Save changes",
-    "closeWithoutSaving": "Close without saving",
-    "keepEditing": "Keep editing"
+    "unsavedChanges": "Er zijn niet-opgeslagen veranderingen",
+    "areYouSure": "Weet u het zeker?",
+    "saveChanges": "Wijzigingen opslaan",
+    "closeWithoutSaving": "Sluiten zonder op te slaan",
+    "keepEditing": "Verdergaan met bewerken"
 }
