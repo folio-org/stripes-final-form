@@ -1,6 +1,6 @@
 {
   "name": "@folio/stripes-final-form",
-  "version": "8.1.0",
+  "version": "8.2.0",
   "description": "Form state management in Stripes based on Final Form.",
   "license": "Apache-2.0",
   "repository": "folio-org/stripes-final-form",
