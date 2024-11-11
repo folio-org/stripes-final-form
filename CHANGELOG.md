@@ -2,6 +2,8 @@
 
 ## 8.2.0 IN PROGRESS
 
+* ESC - Cancel confirmation popup does not appear on user edit page after entering not unique Username. Refs STRIPESFF-39.
+
 ## [8.1.0](https://github.com/folio-org/stripes-final-form/tree/v8.1.0) (2024-10-11)
 [Full Changelog](https://github.com/folio-org/stripes-final-form/compare/v8.0.1...v8.1.0)
 
