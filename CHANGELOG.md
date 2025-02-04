@@ -1,6 +1,6 @@
 # Change history for stripes-final-form
 
-## 8.2.0 IN PROGRESS
+## 9.0.0 IN PROGRESS
 
 ## [8.1.0](https://github.com/folio-org/stripes-final-form/tree/v8.1.0) (2024-10-11)
 [Full Changelog](https://github.com/folio-org/stripes-final-form/compare/v8.0.1...v8.1.0)
