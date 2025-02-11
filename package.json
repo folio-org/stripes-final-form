@@ -15,7 +15,7 @@
   },
   "scripts": {
     "docgen": "react-docgen ./lib/ --pretty -e index.js -o ./docs/reactdoc.json ",
-    "formatjs-compile": "formatjs compile-folder --ast --format simple ./translations/stripes-final-form ./translations/stripes-final-form/compiled",
+    "formatjs-compile": "stripes translate compile",
     "lint": "eslint .",
     "test": "echo 'Placeholder. No local unit tests currently implemented.'"
   },
@@ -25,7 +25,6 @@
     "@folio/eslint-config-stripes": "^8.0.0",
     "@folio/stripes-components": "^13.0.0",
     "@folio/stripes-core": "^11.0.0",
-    "@formatjs/cli": "^6.1.3",
     "eslint": "^7.32.0",
     "eslint-import-resolver-webpack": "^0.13.2",
     "react": "^18.2.0",
@@ -44,7 +43,7 @@
     "@folio/stripes-components": "^13.0.0",
     "@folio/stripes-core": "^11.0.0",
     "react": "^18.2.0",
-    "react-intl": "^6.4.4",
+    "react-intl": "^7.1.5",
     "react-router": "^5.2.0"
   }
 }
