@@ -1,6 +1,7 @@
 # Change history for stripes-final-form
 
-## 9.0.0 IN PROGRESS
+## [9.0.0](https://github.com/folio-org/stripes-final-form/tree/v9.0.0) (2025-02-24)
+[Full Changelog](https://github.com/folio-org/stripes-final-form/compare/v8.1.0...v9.0.0)
 
 * *BREAKING* Upgrade `@folio/stripes-*` dependencies. STRIPESFF-42.
 * *BREAKING* Upgrade `react-intl` to v7. Refs STRIPESFF-43.
