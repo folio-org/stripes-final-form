@@ -1,6 +1,7 @@
 # Change history for stripes-final-form
 
-## IN PROGRESS
+## [9.0.1](https://github.com/folio-org/stripes-final-form/tree/v9.0.1) (2026-04-20)
+[Full Changelog](https://github.com/folio-org/stripes-final-form/compare/v9.0.0...v9.0.1)
 
 * Resolve confirmation modal issue when navigating to same URL. STRIPESFF-48.
 * Supply Personal Data Disclosure form. Refs STRIPESFF-47.
