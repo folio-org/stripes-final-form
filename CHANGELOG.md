@@ -1,5 +1,9 @@
 # Change history for stripes-final-form
 
+## IN PROGRESS
+
+* Supply Personal Data Disclosure form. Refs STRIPESFF-47.
+
 ## 9.0.0 IN PROGRESS
 
 * *BREAKING* Upgrade `@folio/stripes-*` dependencies. STRIPESFF-42.
