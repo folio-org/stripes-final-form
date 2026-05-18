@@ -1,7 +1,7 @@
 {
-    "unsavedChanges": "There are unsaved changes",
-    "areYouSure": "Are you sure?",
-    "saveChanges": "Save changes",
-    "closeWithoutSaving": "Close without saving",
-    "keepEditing": "Keep editing"
+    "unsavedChanges": "Kaydedilmemiş değişiklikler var",
+    "areYouSure": "Emin misin?",
+    "saveChanges": "Değişiklikleri Kaydet",
+    "closeWithoutSaving": "Kaydetmeden kapat",
+    "keepEditing": "Düzenlemeye devam et"
 }
