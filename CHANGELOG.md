@@ -1,7 +1,7 @@
 # Change history for stripes-final-form
 
-## [9.0.2](https://github.com/folio-org/stripes-final-form/tree/v9.0.2) (2026-06-01)
-[Full Changelog](https://github.com/folio-org/stripes-final-form/compare/v9.0.1...v9.0.2)
+## [9.0.3](https://github.com/folio-org/stripes-final-form/tree/v9.0.2) (2026-06-02)
+[Full Changelog](https://github.com/folio-org/stripes-final-form/compare/v9.0.1...v9.0.3)
 
 * Include recent translation updates.
 
