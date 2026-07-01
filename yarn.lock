@@ -1394,12 +1394,13 @@
     tai-password-strength "^1.1.1"
     usehooks-ts "^3.1.1"
 
-"@folio/stripes-core@^11.0.0":
-  version "11.1.1099000000001571"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/stripes-core/-/stripes-core-11.1.1099000000001571.tgz#1f359e47c02f6ccaf9c04bbead68cbc83aeac3ef"
-  integrity sha512-8Ky233/Q/FGGSDURkiB8DcZ04+mwmfz4EXWc2PEH99VVeqUZafDahjZv5uu8Edg4AWP5J3e0up+zh6Nu2QQxGw==
+"@folio/stripes-core@^11.2.0":
+  version "11.2.1099000000001959"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/stripes-core/-/stripes-core-11.2.1099000000001959.tgz#a17a941cfe79522097404626160c8c17e261c9b2"
+  integrity sha512-tF3977AUw9ShJcTo4vGme63WYuDRGKYJ4dRqfGWzDDtWn+82Q9AbAElWPU1PMduzWEW8uNImsKl4vpieDAkyPg==
   dependencies:
     "@apollo/client" "^3.2.1"
+    "@module-federation/runtime" "^2.0.0"
     classnames "^2.2.5"
     core-js "^3.26.1"
     final-form "^4.18.2"
@@ -1427,6 +1428,7 @@
     regenerator-runtime "^0.13.10"
     rtl-detect "^1.0.2"
     rxjs "^6.6.3"
+    semver "^7.7.2"
     use-deep-compare "^1.1.0"
 
 "@folio/stripes-react-hotkeys@^3.2.1":
@@ -1700,6 +1702,33 @@
   version "2.0.5"
   resolved "https://registry.yarnpkg.com/@leichtgewicht/ip-codec/-/ip-codec-2.0.5.tgz#4fc56c15c580b9adb7dc3c333a134e540b44bfb1"
   integrity sha512-Vo+PSpZG2/fmgmiNzYK9qWRh8h/CHrwD0mo1h1DzL4yzHNSfWYujGTYsWGreD000gcgmZ7K4Ys6Tx9TxtsKdDw==
+
+"@module-federation/error-codes@2.6.0":
+  version "2.6.0"
+  resolved "https://registry.yarnpkg.com/@module-federation/error-codes/-/error-codes-2.6.0.tgz#874d800f946123f67aa623fca73fc18416567822"
+  integrity sha512-J9opjWJJZ1JI/9EvNZF8Ps1VMHS9EsH/i0UjCkQQxFVYZxSDBX1CFunvc7awac4cY//LqJUfqBbfoQPhCfKKKw==
+
+"@module-federation/runtime-core@2.6.0":
+  version "2.6.0"
+  resolved "https://registry.yarnpkg.com/@module-federation/runtime-core/-/runtime-core-2.6.0.tgz#4074ba568b2391d6b11752392598f1f019ce5019"
+  integrity sha512-9sL7Yj3H3COZI9JpK/J4hmJUBkIJdmowkj6phHuFiy5Hm5bHiE5U+9WBbR9KqTdyNhAVSL9FeprBW5/Io6i59A==
+  dependencies:
+    "@module-federation/error-codes" "2.6.0"
+    "@module-federation/sdk" "2.6.0"
+
+"@module-federation/runtime@^2.0.0":
+  version "2.6.0"
+  resolved "https://registry.yarnpkg.com/@module-federation/runtime/-/runtime-2.6.0.tgz#a48a02665b3310c41b34e012d7a13913f4eb17ad"
+  integrity sha512-Y8KgL70RDxD8cCtGWGlGkt+TSDleIjdGmS27gnllibQAIgG/vHhPD11r8kd92x44k4dqtMIntzreOphGICl92g==
+  dependencies:
+    "@module-federation/error-codes" "2.6.0"
+    "@module-federation/runtime-core" "2.6.0"
+    "@module-federation/sdk" "2.6.0"
+
+"@module-federation/sdk@2.6.0":
+  version "2.6.0"
+  resolved "https://registry.yarnpkg.com/@module-federation/sdk/-/sdk-2.6.0.tgz#5cecb97677fbc023a2c53af3b46a6d10bb2a3f17"
+  integrity sha512-Z3HT1uDciMrvz2at3sw6TJbAK9Fl7RmoC/8iqO35HDtQMQJ1qSsMIAjnsiCpAC0D4nAm6PIqgSqPWRO/WYgo0Q==
 
 "@nicolo-ribaudo/eslint-scope-5-internals@5.1.1-v1":
   version "5.1.1-v1"
@@ -8883,6 +8912,11 @@ semver@^7.1.3, semver@^7.2.1, semver@^7.3.4, semver@^7.3.5, semver@^7.3.7, semve
   version "7.7.4"
   resolved "https://registry.yarnpkg.com/semver/-/semver-7.7.4.tgz#28464e36060e991fa7a11d0279d2d3f3b57a7e8a"
   integrity sha512-vFKC2IEtQnVhpT78h1Yp8wzwrf8CM+MzKMHGJZfBtzhZNycRFnXsHk6E5TxIkkMsgNS7mdX3AGB7x2QM2di4lA==
+
+semver@^7.7.2:
+  version "7.8.5"
+  resolved "https://registry.yarnpkg.com/semver/-/semver-7.8.5.tgz#39b646037dd50c14fb451e7e4cac58ed8b863f69"
+  integrity sha512-Y7/KDsb8LjooZpwaqGyulO6DQlksgCncchHGk+sZIY4SBvUocMBEFH5Ur1fI4dV+Jvl0w6cjvucaIi40puRioA==
 
 send@~0.19.0, send@~0.19.1:
   version "0.19.2"
