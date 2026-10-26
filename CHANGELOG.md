@@ -4,6 +4,7 @@
 
 * Supply Personal Data Disclosure form. Refs STRIPESFF-47.
 * Handle unguardable navigation via stripes-core::isGuardable. Refs STRIPESFF-49.
+* Replace `eslint` v7 with `oxlint` v1 via `@folio/eslint-config-stripes` v10. Refs STRIPESFF-51.
 
 ## 9.0.0 IN PROGRESS
 
