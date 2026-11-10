@@ -1442,7 +1442,7 @@
     oxfmt "^0.70.0"
     oxlint "^1.85.0"
 
-"@folio/jest-config-stripes@^5.0.1099000000000107":
+"@folio/jest-config-stripes@^5.0.0":
   version "5.0.1099000000000107"
   resolved "https://repository.folio.org/repository/npm-folioci/@folio/jest-config-stripes/-/jest-config-stripes-5.0.1099000000000107.tgz#d3ebaf29737e0a69721f2f5e068488606f3c63ca"
   integrity sha512-XX/GKkb9zBcTTMitFSep1lhvk588gUPakDHgg7WEWxGAbgIuoIY1Ynmu+egtJr4IxzL72YNQsgjsNY5TvhaMwg==
