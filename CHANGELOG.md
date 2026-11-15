@@ -5,7 +5,8 @@
 * Supply Personal Data Disclosure form. Refs STRIPESFF-47.
 * Handle unguardable navigation via stripes-core::isGuardable. Refs STRIPESFF-49.
 * Replace `eslint` v7 with `oxlint` v1 via `@folio/eslint-config-stripes` v10. Refs STRIPESFF-51.
-* Strip whitespace on submit. Refs STRIPESFF-nnn.
+* Strip whitespace on submit. Refs STRIPESFF-52.
+* Restore the render behavior that was present as a side-effect prior to STRIPESFF-52.
 
 ## 9.0.0 IN PROGRESS
 
